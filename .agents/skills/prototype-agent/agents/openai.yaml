@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype Agent"
+  short_description: "Build and maintain this Ant Design prototype template."
+  default_prompt: "Use $prototype-agent to add a new business page to this prototype template."
